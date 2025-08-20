@@ -26,7 +26,7 @@ The dataset, provided by Google through the course, was clearly simplified and c
    - Evaluated performance using precision, recall, F1 score, and accuracy.  
 
 ## Results  
-All models performed at a very high level, with precision, recall, and F1 scores close to 1.0.  
+All models performed at a very high level, with recall and F1 scores close to 1.0 and precision at 1.0. 
 
 - **Random Forest (final model):**  
   - F1 Score: 0.9997  
