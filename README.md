@@ -12,7 +12,7 @@ The dataset, provided by Google through the course, was clearly simplified and c
    - Highlighted risks of false negatives (dangerous claims missed) and false positives (opinions mislabeled).  
 
 2. **Data exploration**  
-   - Worked with ~19,000 videos.  
+   - Worked with extracted data points from ~19,000 TikTok videos.  
    - Identified patterns such as claims being far more popular than opinions based on views, likes, and shares.  
 
 3. **Feature engineering**  
