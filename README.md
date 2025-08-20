@@ -2,7 +2,7 @@
 *Adapted from Google’s Nuts and Bolts of Machine Learning Course*
 
 ## Overview  
-This project focused on building a machine learning model to classify TikTok videos as either a **claim** or an **opinion**. The purpose was to explore how ML could assist platforms like TikTok in automating moderation, prioritizing potentially harmful claims, and improving response efficiency.  
+This project focused on building a machine learning model to classify TikTok videos as either containing a **claim** or an **opinion**. The purpose was to explore how ML could assist platforms like TikTok in automating moderation, prioritizing potentially harmful claims, and improving response efficiency.  
 
 The dataset, provided by Google through the course, was clearly simplified and curated for teaching. As a result, the models achieved unusually high performance metrics. While not representative of the messiness of real-world data, the project illustrates my ability to carry out a full machine learning workflow with both structured data and natural language processing.  
 
